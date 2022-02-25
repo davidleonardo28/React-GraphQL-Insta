@@ -1,0 +1,11 @@
+{
+  "name": "ReactInstagraclone",
+  "version": "1.0.0",
+  "description": "El servidor de react instagram clone",
+  "main": "index.js",
+  "author": "David Barrera",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./index.js"
+  }
+}
